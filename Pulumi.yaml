@@ -1,0 +1,8 @@
+name: guestbook-monitoring
+runtime: nodejs
+description: Kubernetes Guestbook with Prometheus and Grafana monitoring - Dinesh Melimi
+config:
+  isMinikube:
+    type: boolean
+    default: true
+    description: Use ClusterIP/NodePort instead of LoadBalancer (minikube, kind, Docker Desktop)
