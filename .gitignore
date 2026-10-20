@@ -1,3 +1,4 @@
 node_modules/
 bin/
 Pulumi.dev.yaml
+.DS_Store

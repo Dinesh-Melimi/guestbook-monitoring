@@ -171,8 +171,17 @@ Pulumi.yaml, package.json, tsconfig.json
 
 — Dinesh Melimi
 
-## Screenshot
+## Screenshots
 
-Guestbook dashboard in Grafana, running on Docker Desktop Kubernetes:
+Running on Docker Desktop Kubernetes.
 
-![Guestbook Grafana dashboard](docs/grafana-dashboard.png)
+**Grafana: Guestbook dashboard**
+
+![Dashboard](docs/grafana-dashboard-1.png)
+![Dashboard](docs/grafana-dashboard-2.png)
+![Dashboard](docs/grafana-dashboard-3.png)
+![Dashboard](docs/grafana-dashboard-4.png)
+
+**`scripts/verify.sh`: all Guestbook targets up**
+
+![verify.sh output](docs/verify-output.png)
